@@ -1,0 +1,4 @@
+﻿fecha,maquina,hora_inicio,turno,persona,referencia,estilo,nro_hilo,lote,nro_cadena,metros_engomar,metros_producidos,fecha_fin,hora_fin,nro_plegador
+20261007,ENGOMADORA  # 02,06:01,Primer Turno,"JOEL, CAMPOS",0105-49470,ARANDANO DARK,4690,201209,4,2300,0,07/10/26,14:00,69
+20261007,ENGOMADORA  # 02,14:00,Segundo Turno,"JHONNY, BELLO",0105-49470,ARANDANO DARK,4690,201209,4,2300,0,07/10/26,22:00,69
+20261007,ENGOMADORA  # 02,22:00,Tercer Turno,"LUIS, GUEVARA",0105-49470,ARANDANO DARK,4690,201209,4,2300,0,08/10/26,05:59,69
