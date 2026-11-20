@@ -1,0 +1,4 @@
+﻿fecha,maquina,hora_inicio,turno,persona,referencia,estilo,nro_hilo,lote,nro_cadena,metros_engomar,metros_producidos,fecha_fin,hora_fin,nro_plegador
+20261117,ENGOMADORA  # 02,10:50,Primer Turno,"JOEL, CAMPOS",0105-43832,ALEXA L SKY BLUE,4152,101008,1,2300,1800,17/11/26,11:50,103
+20261117,ENGOMADORA  # 02,12:00,Primer Turno,"JOEL, CAMPOS",0105-43832,ALEXA L SKY BLUE,4152,101008,2,2300,1800,17/11/26,13:00,150
+20261117,ENGOMADORA  # 02,13:10,Primer Turno,"JOEL, CAMPOS",0105-43832,ALEXA L SKY BLUE,4152,101008,3,2300,1000,17/11/26,13:40,65
